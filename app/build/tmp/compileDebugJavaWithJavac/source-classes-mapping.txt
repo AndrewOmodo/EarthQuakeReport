@@ -1,0 +1,11 @@
+com/example/earthquakereport/BuildConfig.java
+ com.example.earthquakereport.BuildConfig
+com/example/earthquakereport/QuakeArrayAdapter.java
+ com.example.earthquakereport.QuakeArrayAdapter
+com/example/earthquakereport/Earthquake.java
+ com.example.earthquakereport.Earthquake
+com/example/earthquakereport/EarthquakeActivity.java
+ com.example.earthquakereport.EarthquakeActivity
+ com.example.earthquakereport.EarthquakeActivity$1
+com/example/earthquakereport/QueryUtils.java
+ com.example.earthquakereport.QueryUtils
